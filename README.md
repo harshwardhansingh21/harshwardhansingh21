@@ -2,12 +2,12 @@
 <h3 align="center">RTL Design & Functional Verification | UVM | SystemVerilog</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+ECE+%40+BIT+Mesra+(2023-27);RTL+Design+%7C+Functional+Verification;UVM+%7C+SystemVerilog+%7C+CDC+%7C+SVA;Targeting+Summer+2027+Verification+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+ECE+%40+BIT+Mesra+(2024-28);RTL+Design+%7C+Functional+Verification;UVM+%7C+SystemVerilog+%7C+CDC+%7C+SVA;Targeting+Summer+2027+Verification+Internships" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/harshuu21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hasrhwardhan.sing.ece@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=harshuu21&style=for-the-badge&color=blue" alt="profile views" />
 </p>
 
@@ -15,12 +15,12 @@
 
 ### 🔧 About Me
 
-- 🎓 B.Tech Electronics & Communication Engineering, **BIT Mesra, Ranchi** (2023–27), CGPA 8.2
+- 🎓 B.Tech Electronics & Communication Engineering, **BIT Mesra, Ranchi** (2024–28), CGPA 8.2
 - 🔬 Focused on **RTL Design** and **Functional Verification** — building a portfolio of UVM-based testbenches and hand-crafted RTL
 - 🎯 Targeting **Summer 2027 internships** in RTL/Verification at NVIDIA, Qualcomm, AMD, Intel, TI, and Marvell
 - 📚 Preparing for **GATE 2027** in parallel, with an eye on an M.Tech in VLSI
 - 🌱 Currently deepening skills in formal verification, Verdi waveform debug, and AXI4-Full/PCIe protocol depth
-- 🍔 Side interest: food entrepreneurship — branding & menu design for a protein-first fast food concept
+-  Side interest: I love playing vide games and listening to music.
 
 ---
 
