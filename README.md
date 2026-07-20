@@ -20,7 +20,7 @@
 - 🎯 Targeting **Summer 2027 internships** in RTL/Verification at NVIDIA, Qualcomm, AMD, Intel, TI, and Marvell
 - 📚 Preparing for **GATE 2027** in parallel, with an eye on an M.Tech in VLSI
 - 🌱 Currently deepening skills in formal verification, Verdi waveform debug, and AXI4-Full/PCIe protocol depth
--  Side interest: I love playing vide games and listening to music.
+-  Side interest: I love playing video games and listening to music.
 
 ---
 
